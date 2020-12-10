@@ -24,6 +24,8 @@ public class CheckoutFlow {
     public void buy_product2(){
         // basePage.clickOnBuyButtonBuyNow();
         System.out.println("this is buy_product2");
+        int num=10/0;
+        System.out.println("num = "+num);
     }
 
     @Test

@@ -1,0 +1,5 @@
+midtrans\pages\BasePage.class
+midtrans\pages\HomePage.class
+midtrans\utills\Utility.class
+midtrans\test\CheckoutFlow.class
+midtrans\setup\BaseTest.class

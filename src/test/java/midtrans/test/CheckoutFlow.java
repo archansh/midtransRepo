@@ -15,8 +15,21 @@ public class CheckoutFlow {
         baseTest.getUrl("url");
     }
     @Test
-    public void buy_product(){
+    public void buy_product1(){
        // basePage.clickOnBuyButtonBuyNow();
+        System.out.println("this is buy_product1");
+    }
+
+    @Test
+    public void buy_product2(){
+        // basePage.clickOnBuyButtonBuyNow();
+        System.out.println("this is buy_product2");
+    }
+
+    @Test
+    public void buy_product3(){
+        // basePage.clickOnBuyButtonBuyNow();
+        System.out.println("this is buy_product3");
     }
     @AfterTest
     public void tearDown(){

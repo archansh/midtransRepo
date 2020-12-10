@@ -2,5 +2,5 @@ midtrans\pages\BasePage.class
 midtrans\pages\HomePage.class
 midtrans\utills\Utility.class
 midtrans\test\CheckoutFlow.class
-midtrans\test\CheckoutFlow1.class
 midtrans\setup\BaseTest.class
+midtrans\test\CheckoutFlow1.class

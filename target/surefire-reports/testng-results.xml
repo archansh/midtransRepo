@@ -2,32 +2,32 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-12-10T23:13:15 IST" name="Suite" finished-at="2020-12-10T23:13:25 IST" duration-ms="9618">
+  <suite started-at="2020-12-11T11:26:46 IST" name="Suite" finished-at="2020-12-11T11:26:56 IST" duration-ms="10226">
     <groups>
     </groups>
-    <test started-at="2020-12-10T23:13:15 IST" name="Test" finished-at="2020-12-10T23:13:25 IST" duration-ms="9618">
-      <class name="midtrans.test.CheckoutFlow2">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:midtrans.test.CheckoutFlow2@71def8f8]" started-at="2020-12-10T23:13:15 IST" name="setUp" finished-at="2020-12-10T23:13:25 IST" duration-ms="9341" status="PASS">
+    <test started-at="2020-12-11T11:26:46 IST" name="Test" finished-at="2020-12-11T11:26:56 IST" duration-ms="10226">
+      <class name="midtrans.test.CheckoutFlow4">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:midtrans.test.CheckoutFlow4@71def8f8]" started-at="2020-12-11T11:26:46 IST" name="setUp" finished-at="2020-12-11T11:26:56 IST" duration-ms="9928" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="launch_product1()[pri:0, instance:midtrans.test.CheckoutFlow2@71def8f8]" started-at="2020-12-10T23:13:25 IST" name="launch_product1" finished-at="2020-12-10T23:13:25 IST" duration-ms="2" status="PASS">
+        <test-method signature="cart_product1()[pri:0, instance:midtrans.test.CheckoutFlow4@71def8f8]" started-at="2020-12-11T11:26:56 IST" name="cart_product1" finished-at="2020-12-11T11:26:56 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- launch_product1 -->
-        <test-method signature="launch_product2()[pri:0, instance:midtrans.test.CheckoutFlow2@71def8f8]" started-at="2020-12-10T23:13:25 IST" name="launch_product2" finished-at="2020-12-10T23:13:25 IST" duration-ms="1" status="PASS">
+        </test-method> <!-- cart_product1 -->
+        <test-method signature="cart_product2()[pri:0, instance:midtrans.test.CheckoutFlow4@71def8f8]" started-at="2020-12-11T11:26:56 IST" name="cart_product2" finished-at="2020-12-11T11:26:56 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- launch_product2 -->
-        <test-method signature="launch_product3()[pri:0, instance:midtrans.test.CheckoutFlow2@71def8f8]" started-at="2020-12-10T23:13:25 IST" name="launch_product3" finished-at="2020-12-10T23:13:25 IST" duration-ms="1" status="PASS">
+        </test-method> <!-- cart_product2 -->
+        <test-method signature="cart_product3()[pri:0, instance:midtrans.test.CheckoutFlow4@71def8f8]" started-at="2020-12-11T11:26:56 IST" name="cart_product3" finished-at="2020-12-11T11:26:56 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- launch_product3 -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:midtrans.test.CheckoutFlow2@71def8f8]" started-at="2020-12-10T23:13:25 IST" name="tearDown" finished-at="2020-12-10T23:13:25 IST" duration-ms="181" status="PASS">
+        </test-method> <!-- cart_product3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:midtrans.test.CheckoutFlow4@71def8f8]" started-at="2020-12-11T11:26:56 IST" name="tearDown" finished-at="2020-12-11T11:26:56 IST" duration-ms="203" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- midtrans.test.CheckoutFlow2 -->
+      </class> <!-- midtrans.test.CheckoutFlow4 -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
